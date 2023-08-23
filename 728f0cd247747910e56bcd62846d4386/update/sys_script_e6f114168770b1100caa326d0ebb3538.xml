@@ -8,7 +8,7 @@
         <action_update>false</action_update>
         <active>false</active>
         <add_message>false</add_message>
-        <advanced>false</advanced>
+        <advanced>true</advanced>
         <change_fields>false</change_fields>
         <client_callable>false</client_callable>
         <collection/>
@@ -18,7 +18,7 @@
         <filter_condition/>
         <is_rest>false</is_rest>
         <message/>
-        <name>test br1</name>
+        <name>br2_release1</name>
         <order>100</order>
         <priority>100</priority>
         <rest_method/>
@@ -34,21 +34,21 @@
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
-        <sys_created_on>2023-08-23 15:58:43</sys_created_on>
+        <sys_created_on>2023-08-23 16:08:47</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>7fafccd247747910e56bcd62846d43df</sys_id>
+        <sys_id>e6f114168770b1100caa326d0ebb3538</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>test br1</sys_name>
+        <sys_name>br2_release1</sys_name>
         <sys_overrides/>
         <sys_package display_value="emp91_demo3" source="x_snc_emp91_demo3">728f0cd247747910e56bcd62846d4386</sys_package>
         <sys_policy/>
         <sys_scope display_value="emp91_demo3">728f0cd247747910e56bcd62846d4386</sys_scope>
-        <sys_update_name>sys_script_7fafccd247747910e56bcd62846d43df</sys_update_name>
+        <sys_update_name>sys_script_e6f114168770b1100caa326d0ebb3538</sys_update_name>
         <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
-        <sys_updated_on>2023-08-23 15:58:43</sys_updated_on>
+        <sys_updated_on>2023-08-23 16:08:47</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
-    <sys_translated_text action="delete_multiple" query="documentkey=7fafccd247747910e56bcd62846d43df"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=e6f114168770b1100caa326d0ebb3538"/>
 </record_update>
